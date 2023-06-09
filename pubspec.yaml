@@ -100,14 +100,15 @@ flutter:
 
 flutter_native_splash:
   
-  image: assets/launch.png
+  icon_background_color_dark: "#24283B"
   android: true
   ios: true
   android_12:
-    image: assets/launch.png
+    icon_background_color_dark: "#24283B"
     
 flutter_launcher_icons:
   android: "launcher_icon"
+  adaptive_icon_background: "#24283B"
   ios: true
   image_path: "assets/logo.png"
   remove_alpha_ios: true

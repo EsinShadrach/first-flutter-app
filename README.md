@@ -1,16 +1,26 @@
-# namr
+# Namr
+## Namer App
 
-A new Flutter project.
+Redid the google code labs example app
 
-## Getting Started
+### The app basically get's two random words and pairs them together
 
-This project is a starting point for a Flutter application.
+<video src="./projectMedia/video1.mp4" controls=true>
+</video>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Before:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![before](./Screenshot_20230605_153100.jpg)
+
+## After:
+
+![after-1](./projectMedia/Screenshot%20from%202023-06-05%2017-13-18.png)
+
+![after-2](./projectMedia/Screenshot%20from%202023-06-05%2017-13-23.png)
+
+![after-3](./projectMedia/Screenshot%20from%202023-06-05%2017-13-30.png)
+
+![after-4](./projectMedia/Screenshot%20from%202023-06-05%2017-13-38.png)
+
+Ignore the green line, was for debugging purposes.
